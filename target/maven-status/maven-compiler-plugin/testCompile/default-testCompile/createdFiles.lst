@@ -1,0 +1,5 @@
+br/com/controleestoque/Controle/Estoque/service/StockMovementServiceTest.class
+br/com/controleestoque/Controle/Estoque/ControleEstoqueApplicationTests.class
+br/com/controleestoque/Controle/Estoque/controller/StockMovementControllerTest.class
+br/com/controleestoque/Controle/Estoque/service/ProductServiceTest.class
+br/com/controleestoque/Controle/Estoque/controller/ProductControllerTest.class
